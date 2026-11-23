@@ -1,0 +1,6 @@
+{
+  "name": "PSL Match JSON to CSV Studio",
+  "description": "Convert Pakistan Super League (PSL) match JSON files into unified, ML-ready CSV datasets with automated feature engineering, schema inspection, and batch validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
